@@ -16,13 +16,13 @@
 
 ## 🌈 Overview
 
-This Flutter Color Palette Generator is a sleek, minimal mobile application that empowers designers, developers, and artists to create beautiful color combinations effortlessly. With an intuitive interface and powerful generation algorithms, discovering the perfect palette has never been easier.
+This Flutter Color Palette Extractor is a sleek, minimal mobile application that empowers designers, developers, and artists to extract beautiful color combinations effortlessly. With an intuitive interface and powerful extraction algorithms, discovering the perfect palette has never been easier.
 
 ## 🎬 Intro
 
 <div align="center">
   
-  [![Flutter Color Palette Generator Demo](screenshots/intro.png)]
+  [![Flutter Color Palette Extractor Demo](screenshots/intro2.png)]
     
 </div>
 
