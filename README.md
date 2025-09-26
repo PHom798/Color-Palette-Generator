@@ -1,4 +1,4 @@
-# 🎨 Flutter Color Palette Generator
+# 🎨 Flutter Color Palette Extractor
 
 <div align="center">
   
@@ -22,7 +22,7 @@ This Flutter Color Palette Generator is a sleek, minimal mobile application that
 
 <div align="center">
   
-  [![Flutter Color Palette Generator Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+  [![Flutter Color Palette Generator Demo](screenshots/intro.png)]
     
 </div>
 
@@ -130,8 +130,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Your Name** - [@Hom](https://x.com/KishanP07684084) - pathakhom17@gmail.com
-
-Project Link: [https://github.com/yourusername/flutter-color-palette-generator](https://github.com/yourusername/flutter-color-palette-generator)
 
 ---
 
